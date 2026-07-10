@@ -1,0 +1,1 @@
+import{B as e,V as t,z as n}from"./site-layout-lHJ7iZe1.js";function r(r,i){return n({...r,enabled:!0,suspense:!0,throwOnError:e,placeholderData:void 0},t,i)}export{r as t};

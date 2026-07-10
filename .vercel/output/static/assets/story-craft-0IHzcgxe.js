@@ -1,0 +1,1 @@
+var e=`/assets/story-craft-CbRBwQFW.jpg`;export{e as t};

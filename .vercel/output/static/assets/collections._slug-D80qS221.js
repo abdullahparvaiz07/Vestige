@@ -1,0 +1,1 @@
+import{n as e}from"./with-selector-DB4IYXk9.js";import{t}from"./site-layout-lHJ7iZe1.js";var n=e(),r=()=>(0,n.jsx)(t,{children:(0,n.jsx)(`div`,{className:`mx-auto max-w-2xl px-6 py-40 text-center`,children:(0,n.jsx)(`h1`,{className:`font-serif text-4xl`,children:`Collection not found`})})});export{r as notFoundComponent};
