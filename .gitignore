@@ -34,3 +34,6 @@ dist-ssr
 # Local environment variables
 .env
 
+# Vercel build folder
+.vercel/
+.vercel
