@@ -8,7 +8,7 @@ import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 
 const preset = process.env.NETLIFY
   ? "netlify"
-  : process.env.VERCEL
+  : process.env.VERCEL || process.env.VERCEL_ENV || process.env.NOW_BUILDER
     ? "vercel"
     : undefined;
 
